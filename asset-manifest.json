@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/WeatherWebsiteReact/static/css/main.b01f7fdc.chunk.css",
-    "main.js": "/WeatherWebsiteReact/static/js/main.49de6163.chunk.js",
-    "main.js.map": "/WeatherWebsiteReact/static/js/main.49de6163.chunk.js.map",
-    "runtime-main.js": "/WeatherWebsiteReact/static/js/runtime-main.3f5abf3e.js",
-    "runtime-main.js.map": "/WeatherWebsiteReact/static/js/runtime-main.3f5abf3e.js.map",
-    "static/js/2.e6a7b67f.chunk.js": "/WeatherWebsiteReact/static/js/2.e6a7b67f.chunk.js",
-    "static/js/2.e6a7b67f.chunk.js.map": "/WeatherWebsiteReact/static/js/2.e6a7b67f.chunk.js.map",
-    "index.html": "/WeatherWebsiteReact/index.html",
-    "static/css/main.b01f7fdc.chunk.css.map": "/WeatherWebsiteReact/static/css/main.b01f7fdc.chunk.css.map",
-    "static/js/2.e6a7b67f.chunk.js.LICENSE.txt": "/WeatherWebsiteReact/static/js/2.e6a7b67f.chunk.js.LICENSE.txt"
+    "main.css": "/ReactTodo/static/css/main.88d26073.chunk.css",
+    "main.js": "/ReactTodo/static/js/main.90682964.chunk.js",
+    "main.js.map": "/ReactTodo/static/js/main.90682964.chunk.js.map",
+    "runtime-main.js": "/ReactTodo/static/js/runtime-main.b74125d6.js",
+    "runtime-main.js.map": "/ReactTodo/static/js/runtime-main.b74125d6.js.map",
+    "static/js/2.16c6d8d2.chunk.js": "/ReactTodo/static/js/2.16c6d8d2.chunk.js",
+    "static/js/2.16c6d8d2.chunk.js.map": "/ReactTodo/static/js/2.16c6d8d2.chunk.js.map",
+    "index.html": "/ReactTodo/index.html",
+    "static/css/main.88d26073.chunk.css.map": "/ReactTodo/static/css/main.88d26073.chunk.css.map",
+    "static/js/2.16c6d8d2.chunk.js.LICENSE.txt": "/ReactTodo/static/js/2.16c6d8d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f5abf3e.js",
-    "static/js/2.e6a7b67f.chunk.js",
-    "static/css/main.b01f7fdc.chunk.css",
-    "static/js/main.49de6163.chunk.js"
+    "static/js/runtime-main.b74125d6.js",
+    "static/js/2.16c6d8d2.chunk.js",
+    "static/css/main.88d26073.chunk.css",
+    "static/js/main.90682964.chunk.js"
   ]
 }
